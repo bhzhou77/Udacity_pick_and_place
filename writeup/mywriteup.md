@@ -3,15 +3,15 @@ For more information, refer to [this repository](https://github.com/udacity/Robo
 
 [//]: # (Image References)
 
-[image1]: figure_kr210.jpg
-[image2]: homogeneous_transformation.jpg
-[image3]: individual_homo_trans.jpg
-[image4]: total_homo_trans_euler_angle.jpg
-[image5]: wrist_center.jpg
-[image6]: first_three_geometry.jpg
-[image7]: first_three_derivation.jpg
-[image8]: first_three_rotation.jpg
-[image9]: last_three_derivation.jpg
+[image1]: figure_kr210.JPG
+[image2]: homogeneous_transformation.JPG
+[image3]: individual_homo_trans.JPG
+[image4]: total_homo_trans_euler_angle.JPG
+[image5]: wrist_center.JPG
+[image6]: first_three_geometry.JPG
+[image7]: first_three_derivation.JPG
+[image8]: first_three_rotation.JPG
+[image9]: last_three_derivation.JPG
 
 ### Kinematic Analysis
 #### 1. Run the forward_kinematics demo and evaluate the kr210.urdf.xacro file to perform kinematic analysis of Kuka KR210 robot and derive its DH parameters.
